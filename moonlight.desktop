@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Moonlight
+Type=Application
+Exec=bash /home/pi/moonlight/start_moonlight.sh
